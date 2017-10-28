@@ -1,0 +1,39 @@
+c:\users\qitay\documents\visual studio 2013\Projects\POD1\POD1\bin\Debug\POD1.exe.config
+c:\users\qitay\documents\visual studio 2013\Projects\POD1\POD1\bin\Debug\POD1.exe
+c:\users\qitay\documents\visual studio 2013\Projects\POD1\POD1\bin\Debug\POD1.pdb
+c:\users\qitay\documents\visual studio 2013\Projects\POD1\POD1\obj\Debug\POD1.csprojResolveAssemblyReference.cache
+c:\users\qitay\documents\visual studio 2013\Projects\POD1\POD1\obj\Debug\POD1.Form1.resources
+c:\users\qitay\documents\visual studio 2013\Projects\POD1\POD1\obj\Debug\POD1.Properties.Resources.resources
+c:\users\qitay\documents\visual studio 2013\Projects\POD1\POD1\obj\Debug\POD1.csproj.GenerateResource.Cache
+c:\users\qitay\documents\visual studio 2013\Projects\POD1\POD1\obj\Debug\POD1.exe
+c:\users\qitay\documents\visual studio 2013\Projects\POD1\POD1\obj\Debug\POD1.pdb
+C:\Users\Qitay\Documents\visual studio 2013\Projects\POD1 — kopia\POD1\bin\Debug\POD1.exe.config
+C:\Users\Qitay\Documents\visual studio 2013\Projects\POD1 — kopia\POD1\obj\Debug\POD1.exe
+C:\Users\Qitay\Documents\visual studio 2013\Projects\POD1 — kopia\POD1\obj\Debug\POD1.pdb
+C:\Users\Qitay\Desktop\POD1 — kopia\POD1\bin\Debug\POD1.exe.config
+C:\Users\Qitay\Desktop\POD1 — kopia\POD1\obj\Debug\POD1.exe
+C:\Users\Qitay\Desktop\POD1 — kopia\POD1\obj\Debug\POD1.pdb
+C:\Users\Qitay\Desktop\POD1 — kopia\POD1\bin\Debug\POD1.exe
+C:\Users\Qitay\Desktop\POD1 — kopia\POD1\bin\Debug\POD1.pdb
+C:\Users\Qitay\Desktop\POD1 — kopia\POD1\obj\Debug\POD1.csprojResolveAssemblyReference.cache
+C:\Users\Qitay\Desktop\POD1 — kopia\POD1\obj\Debug\POD1.Form1.resources
+C:\Users\Qitay\Desktop\POD1 — kopia\POD1\obj\Debug\POD1.Properties.Resources.resources
+C:\Users\Qitay\Desktop\POD1 — kopia\POD1\obj\Debug\POD1.csproj.GenerateResource.Cache
+C:\Users\Qitay\Desktop\POD1\POD1\bin\Debug\POD1.exe.config
+C:\Users\Qitay\Desktop\POD1\POD1\obj\Debug\POD1.exe
+C:\Users\Qitay\Desktop\POD1\POD1\obj\Debug\POD1.pdb
+C:\Users\Qitay\Desktop\POD1\POD1\bin\Debug\POD1.exe
+C:\Users\Qitay\Desktop\POD1\POD1\bin\Debug\POD1.pdb
+C:\Users\Qitay\Desktop\POD1\POD1\obj\Debug\POD1.csprojResolveAssemblyReference.cache
+C:\Users\Qitay\Desktop\POD1\POD1\obj\Debug\POD1.Form1.resources
+C:\Users\Qitay\Desktop\POD1\POD1\obj\Debug\POD1.Properties.Resources.resources
+C:\Users\Qitay\Desktop\POD1\POD1\obj\Debug\POD1.csproj.GenerateResource.Cache
+C:\Users\Qitay\Desktop\POD\POD1\POD1\bin\Debug\POD1.exe.config
+C:\Users\Qitay\Desktop\POD\POD1\POD1\obj\Debug\POD1.exe
+C:\Users\Qitay\Desktop\POD\POD1\POD1\obj\Debug\POD1.pdb
+C:\Users\Qitay\Desktop\POD\POD1\POD1\bin\Debug\POD1.exe
+C:\Users\Qitay\Desktop\POD\POD1\POD1\bin\Debug\POD1.pdb
+C:\Users\Qitay\Desktop\POD\POD1\POD1\obj\Debug\POD1.csprojResolveAssemblyReference.cache
+C:\Users\Qitay\Desktop\POD\POD1\POD1\obj\Debug\POD1.Form1.resources
+C:\Users\Qitay\Desktop\POD\POD1\POD1\obj\Debug\POD1.Properties.Resources.resources
+C:\Users\Qitay\Desktop\POD\POD1\POD1\obj\Debug\POD1.csproj.GenerateResource.Cache

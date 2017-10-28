@@ -1,0 +1,49 @@
+c:\users\qitay\documents\visual studio 2013\Projects\POD7\POD7\bin\Debug\POD7.exe.config
+c:\users\qitay\documents\visual studio 2013\Projects\POD7\POD7\bin\Debug\POD7.exe
+c:\users\qitay\documents\visual studio 2013\Projects\POD7\POD7\bin\Debug\POD7.pdb
+c:\users\qitay\documents\visual studio 2013\Projects\POD7\POD7\obj\Debug\POD7.csprojResolveAssemblyReference.cache
+c:\users\qitay\documents\visual studio 2013\Projects\POD7\POD7\obj\Debug\POD7.Form1.resources
+c:\users\qitay\documents\visual studio 2013\Projects\POD7\POD7\obj\Debug\POD7.Properties.Resources.resources
+c:\users\qitay\documents\visual studio 2013\Projects\POD7\POD7\obj\Debug\POD7.csproj.GenerateResource.Cache
+c:\users\qitay\documents\visual studio 2013\Projects\POD7\POD7\obj\Debug\POD7.exe
+c:\users\qitay\documents\visual studio 2013\Projects\POD7\POD7\obj\Debug\POD7.pdb
+I:\POD7\POD7\bin\Debug\POD7.exe.config
+I:\POD7\POD7\obj\Debug\POD7.exe
+I:\POD7\POD7\obj\Debug\POD7.pdb
+C:\Users\Qitay\Desktop\POD7\POD7\bin\Debug\POD7.exe.config
+C:\Users\Qitay\Desktop\POD7\POD7\obj\Debug\POD7.exe
+C:\Users\Qitay\Desktop\POD7\POD7\obj\Debug\POD7.pdb
+C:\Users\Qitay\Desktop\POD7\POD7\bin\Debug\POD7.exe
+C:\Users\Qitay\Desktop\POD7\POD7\bin\Debug\POD7.pdb
+C:\Users\Qitay\Desktop\POD7\POD7\obj\Debug\POD7.csprojResolveAssemblyReference.cache
+C:\Users\Qitay\Desktop\POD7\POD7\obj\Debug\POD7.Form1.resources
+C:\Users\Qitay\Desktop\POD7\POD7\obj\Debug\POD7.Properties.Resources.resources
+C:\Users\Qitay\Desktop\POD7\POD7\obj\Debug\POD7.csproj.GenerateResource.Cache
+C:\Users\Qitay\Desktop\POD7\POD7\POD7\bin\Debug\POD7.exe.config
+C:\Users\Qitay\Desktop\POD7\POD7\POD7\obj\Debug\POD7.exe
+C:\Users\Qitay\Desktop\POD7\POD7\POD7\obj\Debug\POD7.pdb
+C:\Users\Qitay\Desktop\POD7\POD7\POD7\bin\Debug\POD7.exe
+C:\Users\Qitay\Desktop\POD7\POD7\POD7\bin\Debug\POD7.pdb
+C:\Users\Qitay\Desktop\POD7\POD7\POD7\obj\Debug\POD7.csprojResolveAssemblyReference.cache
+C:\Users\Qitay\Desktop\POD7\POD7\POD7\obj\Debug\POD7.Form1.resources
+C:\Users\Qitay\Desktop\POD7\POD7\POD7\obj\Debug\POD7.Properties.Resources.resources
+C:\Users\Qitay\Desktop\POD7\POD7\POD7\obj\Debug\POD7.csproj.GenerateResource.Cache
+C:\Users\Qitay\Desktop\POD\POD7\POD7\POD7\bin\Debug\POD7.exe.config
+C:\Users\Qitay\Desktop\POD\POD7\POD7\POD7\obj\Debug\POD7.exe
+C:\Users\Qitay\Desktop\POD\POD7\POD7\POD7\obj\Debug\POD7.pdb
+C:\Users\Qitay\Desktop\POD\POD7\POD7\POD7\bin\Debug\POD7.exe
+C:\Users\Qitay\Desktop\POD\POD7\POD7\POD7\bin\Debug\POD7.pdb
+C:\Users\Qitay\Desktop\POD\POD7\POD7\POD7\obj\Debug\POD7.csprojResolveAssemblyReference.cache
+C:\Users\Qitay\Desktop\POD\POD7\POD7\POD7\obj\Debug\POD7.Form1.resources
+C:\Users\Qitay\Desktop\POD\POD7\POD7\POD7\obj\Debug\POD7.Properties.Resources.resources
+C:\Users\Qitay\Desktop\POD\POD7\POD7\POD7\obj\Debug\POD7.csproj.GenerateResource.Cache
+D:\Pliki\Studia\1. Archiwum\SEMESTR 5\POD\POD7\POD7\POD7\bin\Debug\POD7.exe.config
+D:\Pliki\Studia\1. Archiwum\SEMESTR 5\POD\POD7\POD7\POD7\obj\Debug\POD7.exe
+D:\Pliki\Studia\1. Archiwum\SEMESTR 5\POD\POD7\POD7\POD7\obj\Debug\POD7.pdb
+D:\Pliki\Studia\1. Archiwum\SEMESTR 5\POD\POD7\POD7\POD7\bin\Debug\POD7.exe
+D:\Pliki\Studia\1. Archiwum\SEMESTR 5\POD\POD7\POD7\POD7\bin\Debug\POD7.pdb
+D:\Pliki\Studia\1. Archiwum\SEMESTR 5\POD\POD7\POD7\POD7\obj\Debug\POD7.csprojResolveAssemblyReference.cache
+D:\Pliki\Studia\1. Archiwum\SEMESTR 5\POD\POD7\POD7\POD7\obj\Debug\POD7.Form1.resources
+D:\Pliki\Studia\1. Archiwum\SEMESTR 5\POD\POD7\POD7\POD7\obj\Debug\POD7.Properties.Resources.resources
+D:\Pliki\Studia\1. Archiwum\SEMESTR 5\POD\POD7\POD7\POD7\obj\Debug\POD7.csproj.GenerateResource.Cache
+D:\Pliki\Studia\1. Archiwum\SEMESTR 5\POD\POD7\POD7\POD7\obj\Debug\POD7.csproj.CoreCompileInputs.cache

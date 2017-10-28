@@ -1,0 +1,33 @@
+C:\Users\Qitay\Desktop\POD1\POD1\obj\Debug\POD6.csprojResolveAssemblyReference.cache
+C:\Users\Qitay\Desktop\POD1\POD1\obj\Debug\POD6.Form1.resources
+C:\Users\Qitay\Desktop\POD1\POD1\obj\Debug\POD6.Properties.Resources.resources
+C:\Users\Qitay\Desktop\POD1\POD1\obj\Debug\POD6.csproj.GenerateResource.Cache
+C:\Users\Qitay\Desktop\POD1\POD1\obj\Debug\POD1.exe
+C:\Users\Qitay\Desktop\POD1\POD1\bin\Debug\POD1.exe.config
+C:\Users\Qitay\Desktop\POD1\POD1\bin\Debug\POD1.exe
+C:\Users\Qitay\Desktop\POD1\POD1\bin\Debug\POD1.pdb
+C:\Users\Qitay\Desktop\POD1\POD1\obj\Debug\POD1.pdb
+C:\Users\Qitay\Desktop\POD 6\POD1\bin\Debug\POD1.exe.config
+C:\Users\Qitay\Desktop\POD 6\POD1\obj\Debug\POD1.exe
+C:\Users\Qitay\Desktop\POD 6\POD1\obj\Debug\POD1.pdb
+C:\Users\Qitay\Desktop\POD 6\POD1\obj\Debug\POD6.csprojResolveAssemblyReference.cache
+C:\Users\Qitay\Desktop\POD 6\POD1\obj\Debug\POD6.Form1.resources
+C:\Users\Qitay\Desktop\POD 6\POD1\obj\Debug\POD6.Properties.Resources.resources
+C:\Users\Qitay\Desktop\POD 6\POD1\obj\Debug\POD6.csproj.GenerateResource.Cache
+C:\Users\Qitay\Desktop\POD 6\POD1\bin\Debug\POD1.exe
+C:\Users\Qitay\Desktop\POD 6\POD1\bin\Debug\POD1.pdb
+C:\Users\Qitay\Desktop\POD 6a\POD1\bin\Debug\POD1.exe.config
+C:\Users\Qitay\Desktop\POD 6a\POD1\obj\Debug\POD1.exe
+C:\Users\Qitay\Desktop\POD 6a\POD1\obj\Debug\POD1.pdb
+C:\Users\Qitay\Desktop\POD 6a\POD1\bin\Debug\POD1.exe
+C:\Users\Qitay\Desktop\POD 6a\POD1\bin\Debug\POD1.pdb
+C:\Users\Qitay\Desktop\POD 6a\POD1\obj\Debug\POD6.csprojResolveAssemblyReference.cache
+C:\Users\Qitay\Desktop\POD 6a\POD1\obj\Debug\POD6.Form1.resources
+C:\Users\Qitay\Desktop\POD 6a\POD1\obj\Debug\POD6.Properties.Resources.resources
+C:\Users\Qitay\Desktop\POD 6a\POD1\obj\Debug\POD6.csproj.GenerateResource.Cache
+C:\Users\Qitay\Desktop\POD 6 16bit\POD1\bin\Debug\POD1.exe.config
+C:\Users\Qitay\Desktop\POD 6 16bit\POD1\obj\Debug\POD1.exe
+C:\Users\Qitay\Desktop\POD 6 16bit\POD1\obj\Debug\POD1.pdb
+C:\Users\Qitay\Desktop\POD 6 32 bit\POD1\bin\Debug\POD1.exe.config
+C:\Users\Qitay\Desktop\POD 6 32 bit\POD1\obj\Debug\POD1.exe
+C:\Users\Qitay\Desktop\POD 6 32 bit\POD1\obj\Debug\POD1.pdb

@@ -1,0 +1,28 @@
+c:\users\qitay\documents\visual studio 2013\Projects\POD11\POD11\bin\Debug\POD11.exe.config
+C:\Users\Qitay\documents\visual studio 2013\Projects\POD11\POD11\bin\Debug\POD11.exe
+C:\Users\Qitay\documents\visual studio 2013\Projects\POD11\POD11\bin\Debug\POD11.pdb
+C:\Users\Qitay\documents\visual studio 2013\Projects\POD11\POD11\obj\Debug\POD11.csprojResolveAssemblyReference.cache
+C:\Users\Qitay\documents\visual studio 2013\Projects\POD11\POD11\obj\Debug\POD11.Form1.resources
+C:\Users\Qitay\documents\visual studio 2013\Projects\POD11\POD11\obj\Debug\POD11.Properties.Resources.resources
+C:\Users\Qitay\documents\visual studio 2013\Projects\POD11\POD11\obj\Debug\POD11.csproj.GenerateResource.Cache
+C:\Users\Qitay\documents\visual studio 2013\Projects\POD11\POD11\obj\Debug\POD11.exe
+C:\Users\Qitay\documents\visual studio 2013\Projects\POD11\POD11\obj\Debug\POD11.pdb
+C:\Users\Qitay\Desktop\POD 11\POD11\POD11\bin\Debug\POD11.exe.config
+C:\Users\Qitay\Desktop\POD 11\POD11\POD11\obj\Debug\POD11.exe
+C:\Users\Qitay\Desktop\POD 11\POD11\POD11\obj\Debug\POD11.pdb
+C:\Users\Qitay\Desktop\POD 11\POD11\POD11\bin\Debug\POD11.exe
+C:\Users\Qitay\Desktop\POD 11\POD11\POD11\bin\Debug\POD11.pdb
+C:\Users\Qitay\Desktop\POD 11\POD11\POD11\obj\Debug\POD11.csprojResolveAssemblyReference.cache
+C:\Users\Qitay\Desktop\POD 11\POD11\POD11\obj\Debug\POD11.Form1.resources
+C:\Users\Qitay\Desktop\POD 11\POD11\POD11\obj\Debug\POD11.Properties.Resources.resources
+C:\Users\Qitay\Desktop\POD 11\POD11\POD11\obj\Debug\POD11.csproj.GenerateResource.Cache
+D:\Pliki\Studia\1. Archiwum\SEMESTR 5\POD\POD 11\POD11\POD11\bin\Debug\POD11.exe.config
+D:\Pliki\Studia\1. Archiwum\SEMESTR 5\POD\POD 11\POD11\POD11\bin\Debug\POD11.exe
+D:\Pliki\Studia\1. Archiwum\SEMESTR 5\POD\POD 11\POD11\POD11\bin\Debug\POD11.pdb
+D:\Pliki\Studia\1. Archiwum\SEMESTR 5\POD\POD 11\POD11\POD11\obj\Debug\POD11.csprojResolveAssemblyReference.cache
+D:\Pliki\Studia\1. Archiwum\SEMESTR 5\POD\POD 11\POD11\POD11\obj\Debug\POD11.Form1.resources
+D:\Pliki\Studia\1. Archiwum\SEMESTR 5\POD\POD 11\POD11\POD11\obj\Debug\POD11.Properties.Resources.resources
+D:\Pliki\Studia\1. Archiwum\SEMESTR 5\POD\POD 11\POD11\POD11\obj\Debug\POD11.csproj.GenerateResource.Cache
+D:\Pliki\Studia\1. Archiwum\SEMESTR 5\POD\POD 11\POD11\POD11\obj\Debug\POD11.csproj.CoreCompileInputs.cache
+D:\Pliki\Studia\1. Archiwum\SEMESTR 5\POD\POD 11\POD11\POD11\obj\Debug\POD11.exe
+D:\Pliki\Studia\1. Archiwum\SEMESTR 5\POD\POD 11\POD11\POD11\obj\Debug\POD11.pdb

@@ -1,0 +1,54 @@
+C:\Users\Qitay\Desktop\POD 6\POD1\bin\Release\POD1.exe.config
+C:\Users\Qitay\Desktop\POD 6\POD1\bin\Release\POD1.exe
+C:\Users\Qitay\Desktop\POD 6\POD1\bin\Release\POD1.pdb
+C:\Users\Qitay\Desktop\POD 6\POD1\obj\Release\POD6.Form1.resources
+C:\Users\Qitay\Desktop\POD 6\POD1\obj\Release\POD6.Properties.Resources.resources
+C:\Users\Qitay\Desktop\POD 6\POD1\obj\Release\POD6.csproj.GenerateResource.Cache
+C:\Users\Qitay\Desktop\POD 6\POD1\obj\Release\POD1.exe
+C:\Users\Qitay\Desktop\POD 6\POD1\obj\Release\POD1.pdb
+C:\Users\Qitay\Desktop\POD 6 32 bit\POD1\bin\Release\POD1.exe.config
+C:\Users\Qitay\Desktop\POD 6 32 bit\POD1\obj\Release\POD1.exe
+C:\Users\Qitay\Desktop\POD 6 32 bit\POD1\obj\Release\POD1.pdb
+C:\Users\Qitay\Desktop\POD 6 32 bit\POD1\bin\Release\POD1.exe
+C:\Users\Qitay\Desktop\POD 6 32 bit\POD1\bin\Release\POD1.pdb
+C:\Users\Qitay\Desktop\POD 6 32 bit\POD1\obj\Release\POD6.csprojResolveAssemblyReference.cache
+C:\Users\Qitay\Desktop\POD 6 32 bit\POD1\obj\Release\POD6.Form1.resources
+C:\Users\Qitay\Desktop\POD 6 32 bit\POD1\obj\Release\POD6.Properties.Resources.resources
+C:\Users\Qitay\Desktop\POD 6 32 bit\POD1\obj\Release\POD6.csproj.GenerateResource.Cache
+C:\Users\Qitay\Desktop\POD 6 RELEASE\POD1\bin\Release\POD1.exe.config
+C:\Users\Qitay\Desktop\POD 6 RELEASE\POD1\obj\Release\POD1.exe
+C:\Users\Qitay\Desktop\POD 6 RELEASE\POD1\obj\Release\POD1.pdb
+C:\Users\Qitay\Desktop\POD 6 RELEASE\POD1\bin\Release\POD1.exe
+C:\Users\Qitay\Desktop\POD 6 RELEASE\POD1\bin\Release\POD1.pdb
+C:\Users\Qitay\Desktop\POD 6 RELEASE\POD1\obj\Release\POD6.csprojResolveAssemblyReference.cache
+C:\Users\Qitay\Desktop\POD 6 RELEASE\POD1\obj\Release\POD6.Form1.resources
+C:\Users\Qitay\Desktop\POD 6 RELEASE\POD1\obj\Release\POD6.Properties.Resources.resources
+C:\Users\Qitay\Desktop\POD 6 RELEASE\POD1\obj\Release\POD6.csproj.GenerateResource.Cache
+C:\Users\Qitay\Desktop\POD6\POD 6 RELEASE\POD1\bin\Release\POD1.exe.config
+C:\Users\Qitay\Desktop\POD6\POD 6 RELEASE\POD1\obj\Release\POD1.exe
+C:\Users\Qitay\Desktop\POD6\POD 6 RELEASE\POD1\obj\Release\POD1.pdb
+C:\Users\Qitay\Desktop\POD6\POD 6 RELEASE\POD1\bin\Release\POD1.exe
+C:\Users\Qitay\Desktop\POD6\POD 6 RELEASE\POD1\bin\Release\POD1.pdb
+C:\Users\Qitay\Desktop\POD6\POD 6 RELEASE\POD1\obj\Release\POD6.csprojResolveAssemblyReference.cache
+C:\Users\Qitay\Desktop\POD6\POD 6 RELEASE\POD1\obj\Release\POD6.Form1.resources
+C:\Users\Qitay\Desktop\POD6\POD 6 RELEASE\POD1\obj\Release\POD6.Properties.Resources.resources
+C:\Users\Qitay\Desktop\POD6\POD 6 RELEASE\POD1\obj\Release\POD6.csproj.GenerateResource.Cache
+C:\Users\Qitay\Desktop\POD\POD6\POD 6 RELEASE\POD1\bin\Release\POD1.exe.config
+C:\Users\Qitay\Desktop\POD\POD6\POD 6 RELEASE\POD1\obj\Release\POD1.exe
+C:\Users\Qitay\Desktop\POD\POD6\POD 6 RELEASE\POD1\obj\Release\POD1.pdb
+C:\Users\Qitay\Desktop\POD\POD6\POD 6 RELEASE\POD1\bin\Release\POD1.exe
+C:\Users\Qitay\Desktop\POD\POD6\POD 6 RELEASE\POD1\bin\Release\POD1.pdb
+C:\Users\Qitay\Desktop\POD\POD6\POD 6 RELEASE\POD1\obj\Release\POD6.csprojResolveAssemblyReference.cache
+C:\Users\Qitay\Desktop\POD\POD6\POD 6 RELEASE\POD1\obj\Release\POD6.Form1.resources
+C:\Users\Qitay\Desktop\POD\POD6\POD 6 RELEASE\POD1\obj\Release\POD6.Properties.Resources.resources
+C:\Users\Qitay\Desktop\POD\POD6\POD 6 RELEASE\POD1\obj\Release\POD6.csproj.GenerateResource.Cache
+D:\Pliki\Studia\1. Archiwum\SEMESTR 5\POD\POD6\POD 6 RELEASE\POD1\bin\Release\POD1.exe.config
+D:\Pliki\Studia\1. Archiwum\SEMESTR 5\POD\POD6\POD 6 RELEASE\POD1\obj\Release\POD1.exe
+D:\Pliki\Studia\1. Archiwum\SEMESTR 5\POD\POD6\POD 6 RELEASE\POD1\obj\Release\POD1.pdb
+D:\Pliki\Studia\1. Archiwum\SEMESTR 5\POD\POD6\POD 6 RELEASE\POD1\bin\Release\POD1.exe
+D:\Pliki\Studia\1. Archiwum\SEMESTR 5\POD\POD6\POD 6 RELEASE\POD1\bin\Release\POD1.pdb
+D:\Pliki\Studia\1. Archiwum\SEMESTR 5\POD\POD6\POD 6 RELEASE\POD1\obj\Release\POD6.csprojResolveAssemblyReference.cache
+D:\Pliki\Studia\1. Archiwum\SEMESTR 5\POD\POD6\POD 6 RELEASE\POD1\obj\Release\POD6.Form1.resources
+D:\Pliki\Studia\1. Archiwum\SEMESTR 5\POD\POD6\POD 6 RELEASE\POD1\obj\Release\POD6.Properties.Resources.resources
+D:\Pliki\Studia\1. Archiwum\SEMESTR 5\POD\POD6\POD 6 RELEASE\POD1\obj\Release\POD6.csproj.GenerateResource.Cache
+D:\Pliki\Studia\1. Archiwum\SEMESTR 5\POD\POD6\POD 6 RELEASE\POD1\obj\Release\POD6.csproj.CoreCompileInputs.cache
